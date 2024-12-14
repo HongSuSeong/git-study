@@ -10,6 +10,8 @@ public class GitStudyApplication {
         System.out.println("cd");
         System.out.println("a");
         System.out.println("b ");
+        System.out.println("b ");
+        System.out.println("d ");
         SpringApplication.run(GitStudyApplication.class, args);
     }
 

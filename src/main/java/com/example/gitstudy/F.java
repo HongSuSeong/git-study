@@ -1,8 +1,7 @@
 package com.example.gitstudy;
 
-public class C {
+public class F {
     public void test() {
-        System.out.println("C");
+
     }
 }
-
